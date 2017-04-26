@@ -1,0 +1,9 @@
+{
+    "hostname": "",
+    "username": "",
+    "password": "",
+    "managedUser": {
+        "name": "",
+        "pin": 0
+    }
+}
